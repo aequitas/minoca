@@ -1,0 +1,6 @@
+[submodule "os"]
+	path = os
+	url = https://github.com/minoca/os.git
+[submodule "third-party"]
+	path = third-party
+	url = https://gitlab.com/minoca/third-party.git
