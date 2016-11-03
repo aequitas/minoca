@@ -1,0 +1,2 @@
+excludeInFolderSearch = "{x86dbg,x86rel,armv6dbg,armv6rel}"
+excludeInFileChooser = "{x86dbg,x86rel,armv6dbg,armv6rel}"

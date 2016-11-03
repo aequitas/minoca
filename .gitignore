@@ -1,3 +1,8 @@
+.bin
 *.img
+.vagrant
 armv6rel
 armv6dbg
+x86rel
+x86dbg
+
