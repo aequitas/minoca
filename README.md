@@ -2,5 +2,5 @@ Environment for building MinocaOS on OSX.
 
 Requirements:
 
-  - xcode
+  - xcode 8
   - direnv

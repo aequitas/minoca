@@ -6,7 +6,7 @@ all: $(img)
 $(buildchain):
 	make -C third-party tools
 
-img: | $(buildchain)
+$(img): | $(buildchain)
 	make -C os
 
 clean:
